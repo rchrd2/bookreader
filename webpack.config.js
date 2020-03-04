@@ -5,6 +5,7 @@ module.exports = buildJSFiles([
     'plugins/plugin.archive_analytics.js',
     'plugins/plugin.autoplay.js',
     'plugins/plugin.iframe.js',
+    'plugins/plugin.mobile_nav.js',
     'plugins/tts/plugin.tts.js',
 ]);
 
